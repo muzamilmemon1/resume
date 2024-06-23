@@ -1,45 +1,32 @@
 {
   "profile": {
-    "name": "Bill Gates",
-    "job": "Co-chair, Bill & Melinda Gates Foundation",
+    "name": "Muhammad Muzamil Hussain",
+    "job": "DevOps Engineer",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "aboutMe": "As a recent graduate software engineer, I bring a diverse skill set and a passion for DevOps. With significant understanding of DevOps and Cloud Computing Concepts, I offer a comprehensive understanding of industry-standard practices and the Software Development Life Cycle (SDLC). My proficiency extends to my diverse experience such as working with full stack web applications.",
     "socialNetwork": [
       {
-        "name": "Twitter",
-        "url": "https://twitter.com/billgates"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/williamhgates"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/thisisbillgates/"
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/in/muhammadmuzamilhussain"
       }
     ]
   },
   "cv": {
     "icon": "DocumentTextIcon",
     "name": "PDF & DOC",
-    "value": "Bill Gates",
-    "url": "https://dl.lanno.dev/share/GppwRUSq0tOPCjWy/files/703b5c3a-ff83-4ce9-8607-fc86d0ac09eb"
+    "value": "Muhammad Muzamil Hussain",
+    "url": "path_to_your_resume.pdf"
   },
   "information": [
     {
       "icon": "EnvelopeIcon",
       "name": "Mail address",
-      "value": "billgates@microsoft.com"
-    },
-    {
-      "icon": "CakeIcon",
-      "name": "66 Years old",
-      "value": "28 october 1955"
+      "value": "muhammadmuzamilhussain5@gmail.com"
     },
     {
       "icon": "DevicePhoneMobileIcon",
       "name": "Phone Number",
-      "value": "+1 (800) 642 7676"
+      "value": "+92-318-233-3460"
     },
     {
       "icon": "ComputerDesktopIcon",
@@ -48,82 +35,63 @@
     }
   ],
   "skill": [
-    "C#",
-    "JavaScript",
-    "Angular",
-    "Vue",
-    "CSS",
-    "Tailwindcss",
-    "Dart",
-    "PHP",
-    "TypeScript",
-    "Laravel",
-    "Flutter",
-    "AngularJS",
-    "Bootstrap",
-    "NodeJS",
-    "HTML",
-    "jQuery",
-    "Microsoft SQL",
-    "VS Code",
-    "IIS",
-    "Git",
-    "Windows",
-    "Internet Explorer",
-    "Insomnia"
+    "Operating Systems: Linux, Windows",
+    "Full Stack Web Development",
+    "Cloud Platforms: AWS, Google Cloud Platform (GCP), Azure",
+    "Version Control: Git, GitHub, GitLab",
+    "Scripting Languages: Python, Bash, JavaScript",
+    "DevOps Tools: Docker, Kubernetes, Jenkins, Ansible, Terraform",
+    "Cloud Computing Concepts (AWS/Azure/GCP)",
+    "Continuous Integration/Continuous Delivery (CI/CD)",
+    "Database Design and SQL proficiency",
+    "Scrum and Agile Frameworks",
+    "Software Testing Techniques and Strategies",
+    "Project Management tools such as Jira, Asana"
   ],
   "language": [
     {
       "name": "English",
-      "code": "pt-BR",
+      "code": "en-US",
       "flag": "svg/united-states.svg",
-      "level": "Native Language"
+      "level": "Fluent"
     },
     {
-      "name": "Portuguese",
-      "code": "en-US",
-      "flag": "svg/brazil.svg",
-      "level": "Intermediate"
+      "name": "Urdu",
+      "code": "ur-PK",
+      "flag": "svg/pakistan.svg",
+      "level": "Native Language"
     }
   ],
   "experience": [
     {
-      "job": "Bill & Melinda Gates Foundation",
-      "company": "Co-chair",
-      "companyLogo": "img/company/co-chair.jpg",
-      "location": "New York",
+      "job": "DevOps Apprentice",
+      "company": "Shispare",
+      "companyLogo": "img/company/shispare.jpg",
+      "location": "Karachi, Pakistan",
       "workType": "Fulltime",
-      "start": "jan 2000",
-      "end": "Current",
-      "description": "Guided by the belief that every life has equal value, the Bill & Melinda Gates Foundation works to help all people lead healthy, productive lives. In developing countries, it focuses on improving people’s health and giving them the chance to lift themselves out of hunger and extreme poverty. In the United States, it seeks to ensure that all people—especially those with the fewest resources—have access to the opportunities they need to succeed in school and life. Based in Seattle, Washington, the foundation is led by CEO Mark Suzman, under the direction of co-chairs Bill Gates and Melinda French Gates and the board of trustees."
+      "start": "May 2024",
+      "end": "Present",
+      "description": "Engaged in DevOps principles and best practices, including automation, continuous integration, and continuous delivery, through hands-on learning and practical assignments. Assisted in streamlining development and deployment workflows, enhancing my understanding of the software development lifecycle and the importance of collaboration between development and operations teams."
     },
     {
-      "job": "Breakthrough Energy",
-      "company": "Founder",
-      "companyLogo": "img/company/founder.jpg",
-      "location": "New York",
-      "workType": "Fulltime",
-      "start": "jan 2015",
-      "end": "Current",
-      "description": "Breakthrough Energy is dedicated to helping humanity avoid a climate disaster. Through investment vehicles, philanthropic programs, policy advocacy, and other activities, we’re committed to scaling the technologies we need to reach net-zero emissions by 2050."
+      "job": "Full Stack Developer Intern",
+      "company": "Devkind",
+      "companyLogo": "img/company/devkind.jpg",
+      "location": "Remote",
+      "workType": "Internship",
+      "start": "September 2023",
+      "end": "December 2023",
+      "description": "As a Full Stack Intern, I had the opportunity to work on frontend development, creating image-highlights and call-to-action sections in VueJS for swell.is ecommerce storefronts. Also worked on React JS components and libraries. Implemented Docker-related DevOps practices to streamline development workflows and improve deployment efficiency. Integrated CI/CD pipelines to enhance code integration and testing processes. Created wireframes for mobile app on Invision Freehand and dashboard design on Figma. Managed user stories, functional requirements, and related tasks for incoming projects."
     }
   ],
   "education": [
     {
-      "college": "Harvard University",
-      "collegeLogo": "img/college/harvard.jpg",
-      "course": "Mathematics, law and computer science",
-      "start": "1973",
-      "end": "1975",
-      "url": "https://www.xpeducacao.com.br/pos-graduacao/desenvolvimento-front-end?evento=dev_summit"
-    },
-    {
-      "college": "Lakeside School",
-      "collegeLogo": "img/college/lakeside.jpg",
-      "course": "Technologist in Computer Networks, Network Management and Systems Security",
-      "start": "1963",
-      "end": "1973",
-      "url": ""
+      "college": "NED University of Engineering & Technology",
+      "collegeLogo": "img/college/ned.jpg",
+      "course": "B.E Software Engineering",
+      "start": "October 2019",
+      "end": "October 2023",
+      "url": "https://www.neduet.edu.pk/"
     }
   ],
   "volunteer": [
@@ -140,87 +108,78 @@
   ],
   "certificate": [
     {
-      "course": "Microsoft Azure Data Engineering Associate (DP-203)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2000",
+      "course": "Introduction to DevOps",
+      "school": "Datacamp",
+      "schoolLogo": "img/college/datacamp.jpg",
+      "issueDate": "May 2024",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/microsoft-azure-dp-203-data-engineering"
+      "credentialCode": "",
+      "url": "https://www.datacamp.com/"
     },
     {
-      "course": "Microsoft 365 Fundamentals",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2001",
+      "course": "Microsoft Azure Fundamentals",
+      "school": "Datacamp",
+      "schoolLogo": "img/college/datacamp.jpg",
+      "issueDate": "",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-365-fundamentals"
+      "credentialCode": "",
+      "url": "https://www.datacamp.com/"
     },
     {
-      "course": "Microsoft Azure Fundamentals AZ-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2002",
+      "course": "SQL (Introduction to Intermediate)",
+      "school": "Datacamp",
+      "schoolLogo": "img/college/datacamp.jpg",
+      "issueDate": "",
       "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900"
+      "credentialCode": "",
+      "url": "https://www.datacamp.com/"
     },
     {
-      "course": "Microsoft Azure Data Scientist Associate (DP-100)",
+      "course": "Meta Full Stack Development",
       "school": "Coursera",
       "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2003",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-data-scientist"
-    },
-    {
-      "course": "Microsoft Azure AI Fundamentals AI-900 Exam Prep",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2004",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals"
-    },
-    {
-      "course": "Microsoft Azure Developer Associate (AZ-204)",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2005",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/professional-certificates/azure-developer-associate"
-    },
-    {
-      "course": "Work Smarter with Microsoft Excel",
-      "school": "Coursera",
-      "schoolLogo": "img/college/coursera.jpg",
-      "issueDate": "jan de 2006",
-      "expirationDate": "No expiration date",
-      "credentialCode": "UC-99025927-6d24-4571-8110-44e310049ca1",
-      "url": "https://www.coursera.org/learn/microsoft-excel-work-smarter"
+      "issueDate": "June 2023",
+      "expirationDate": "December 2024",
+      "credentialCode": "",
+      "url": "https://www.coursera.org/"
     }
   ],
   "project": [
     {
-      "name": "Visual Studio Code",
-      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
-      "language": "Typescript",
-      "image": "img/project/vscode.png",
-      "stars": "+138k",
-      "forks": "23.8k",
-      "url": "https://github.com/microsoft/vscode"
+      "name": "Image-Highlights and Call-to-Action Section",
+      "description": "Created for swell.is ecommerce storefronts using VueJS. Improved user engagement and conversion rates.",
+      "language": "VueJS",
+      "image": "img/project/vue.jpg",
+      "stars": "",
+      "forks": "",
+      "url": ""
     },
     {
-      "name": "TypeScript",
-      "description": "TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.",
-      "language": "Typescript",
-      "image": "img/project/typescript.png",
-      "stars": "+85.3k",
-      "forks": "11.1k",
-      "url": "https://github.com/microsoft/TypeScript"
+      "name": "React JS Components and Libraries",
+      "description": "Developed various React JS components and libraries for enhancing the functionality and UI/UX of web applications.",
+      "language": "React JS",
+      "image": "img/project/react.jpg",
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "Docker and DevOps Practices",
+      "description": "Implemented Docker-related DevOps practices to streamline development workflows and improve deployment efficiency.",
+      "language": "Docker",
+      "image": "img/project/docker.jpg",
+      "stars": "",
+      "forks": "",
+      "url": ""
+    },
+    {
+      "name": "CI/CD Pipelines",
+      "description": "Integrated CI/CD pipelines to enhance code integration and testing processes, ensuring smoother and faster releases.",
+      "language": "CI/CD",
+      "image": "img/project/cicd.jpg",
+      "stars": "",
+      "forks": "",
+      "url": ""
     }
   ]
 }
